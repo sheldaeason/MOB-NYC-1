@@ -1,0 +1,8 @@
+Goals
+=====
+
+- round the button's corners
+- make the button respond to taps
+- change the button's background color
+- move the button by changing it's constraints
+- animate the button's color and position changes
