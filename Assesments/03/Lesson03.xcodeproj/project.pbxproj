@@ -14,6 +14,7 @@
 		5DCED99F19D8DC9B00DE1DC2 /* Lesson03Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DCED99E19D8DC9B00DE1DC2 /* Lesson03Tests.swift */; };
 		5DCED9A919D8DF0800DE1DC2 /* ArrayTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DCED9A819D8DF0800DE1DC2 /* ArrayTableViewController.swift */; };
 		5DCED9AB19D8DF4E00DE1DC2 /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DCED9AA19D8DF4E00DE1DC2 /* Animal.swift */; };
+		B103475C1A86FC870047F096 /* Screen-Shot-2013-11-03-at-7.53.46-PM.png in Resources */ = {isa = PBXBuildFile; fileRef = B103475B1A86FC870047F096 /* Screen-Shot-2013-11-03-at-7.53.46-PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		5DCED99E19D8DC9B00DE1DC2 /* Lesson03Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson03Tests.swift; sourceTree = "<group>"; };
 		5DCED9A819D8DF0800DE1DC2 /* ArrayTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArrayTableViewController.swift; sourceTree = "<group>"; };
 		5DCED9AA19D8DF4E00DE1DC2 /* Animal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
+		B103475B1A86FC870047F096 /* Screen-Shot-2013-11-03-at-7.53.46-PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen-Shot-2013-11-03-at-7.53.46-PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				5DCED98819D8DC9B00DE1DC2 /* AppDelegate.swift */,
 				5DCED98A19D8DC9B00DE1DC2 /* ViewController.swift */,
 				5DCED98C19D8DC9B00DE1DC2 /* Main.storyboard */,
+				B103475B1A86FC870047F096 /* Screen-Shot-2013-11-03-at-7.53.46-PM.png */,
 				5DCED98F19D8DC9B00DE1DC2 /* Images.xcassets */,
 				5DCED98619D8DC9B00DE1DC2 /* Supporting Files */,
 			);
@@ -197,6 +200,7 @@
 			files = (
 				5DCED98E19D8DC9B00DE1DC2 /* Main.storyboard in Resources */,
 				5DCED99019D8DC9B00DE1DC2 /* Images.xcassets in Resources */,
+				B103475C1A86FC870047F096 /* Screen-Shot-2013-11-03-at-7.53.46-PM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -401,6 +405,7 @@
 				5DCED9A419D8DC9B00DE1DC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5DCED9A519D8DC9B00DE1DC2 /* Build configuration list for PBXNativeTarget "Lesson03Tests" */ = {
 			isa = XCConfigurationList;
@@ -409,6 +414,7 @@
 				5DCED9A719D8DC9B00DE1DC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
